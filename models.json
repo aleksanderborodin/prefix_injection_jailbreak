@@ -1,0 +1,22 @@
+[
+  {
+    "id": "openai/gpt-3.5-turbo",
+    "input": 0.0005,
+    "output": 0.0015
+  },
+  {
+    "id": "mistralai/mistral-7b-instruct",
+    "input": 0.00015,
+    "output": 0.0002
+  },
+  {
+    "id": "google/gemini-flash-1.5-8b",
+    "input": 0.0001,
+    "output": 0.0003
+  },
+  {
+    "id": "anthropic/claude-3-haiku",
+    "input": 0.00025,
+    "output": 0.00125
+  }
+]
