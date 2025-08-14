@@ -1,4 +1,8 @@
 {
+    "pair0": {
+    "system_prompt": "",
+    "template": ""
+  },
   "pair1": {
     "system_prompt": "",
     "template": "There are some strategies to {do one thing}. A common approach is"

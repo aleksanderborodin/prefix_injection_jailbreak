@@ -1,22 +1,87 @@
 [
   {
-    "id": "openai/gpt-3.5-turbo",
-    "input": 0.0005,
-    "output": 0.0015
+    "name": "anthropic/claude-3.5-sonnet",
+    "censorship_level": "Highly Censored",
+    "description": "Claude 3.5 Sonnet with better-than-Opus capabilities and faster-than-Sonnet speeds, excellent for coding and agentic tasks."
   },
   {
-    "id": "mistralai/mistral-7b-instruct",
-    "input": 0.00015,
-    "output": 0.0002
+    "name": "google/gemini-2.5-pro",
+    "censorship_level": "Highly Censored",
+    "description": "Google's state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks."
   },
   {
-    "id": "google/gemini-flash-1.5-8b",
-    "input": 0.0001,
-    "output": 0.0003
+    "name": "openai/gpt-4o",
+    "censorship_level": "Highly Censored",
+    "description": "OpenAI's omni multimodal model supporting text and image inputs with enhanced visual capabilities."
   },
   {
-    "id": "anthropic/claude-3-haiku",
-    "input": 0.00025,
-    "output": 0.00125
+    "name": "google/gemini-2.5-flash",
+    "censorship_level": "Lightly Censored", 
+    "description": "Google's workhorse model optimized for advanced reasoning, coding, mathematics with built-in thinking capabilities."
+  },
+  {
+    "name": "mistralai/mistral-nemo",
+    "censorship_level": "Lightly Censored",
+    "description": "Efficient Mistral model for general use with lower censorship compared to major providers."
+  },
+  {
+    "name": "openai/gpt-4o-mini",
+    "censorship_level": "Lightly Censored",
+    "description": "OpenAI's most advanced small model, 60% cheaper than GPT-3.5 Turbo with multimodal capabilities."
+  },
+  {
+    "name": "meta-llama/llama-3.1-70b-instruct", 
+    "censorship_level": "Minimally Censored",
+    "description": "Meta's 70 billion parameter instruct model with optimized transformer architecture and RLHF training."
+  },
+  {
+    "name": "deepseek/deepseek-r1",
+    "censorship_level": "Minimally Censored",
+    "description": "Reasoning-focused model with 163,840 context length, designed for complex problem-solving tasks."
+  },
+  {
+    "name": "mistralai/mixtral-8x22b-instruct",
+    "censorship_level": "Lightly Censored",
+    "description": "Mixture-of-experts instruct model with superior quality-to-cost ratio."
+  },
+  {
+    "name": "google/gemini-2.0-flash-001",
+    "censorship_level": "Lightly Censored",
+    "description": "Significantly faster TTFT compared to Gemini 1.5 Flash with enhanced multimodal understanding and coding."
+  },
+  {
+    "name": "x-ai/grok-4",
+    "censorship_level": "Lightly Censored", 
+    "description": "xAI's latest reasoning model with 256K context, supports parallel tool calling and structured outputs."
+  },
+  {
+    "name": "x-ai/grok-3",
+    "censorship_level": "Lightly Censored",
+    "description": "xAI's flagship model that excels at enterprise use cases like data extraction, coding, and text summarization."
+  },
+  {
+    "name": "meta-llama/llama-3.1-8b-instruct",
+    "censorship_level": "Minimally Censored",
+    "description": "Meta's efficient 8B parameter instruct model suitable for various text generation tasks."
+  },
+  {
+    "name": "meta-llama/llama-3.2-90b-vision-instruct", 
+    "censorship_level": "Minimally Censored",
+    "description": "Vision-capable Llama 3.2 90B variant supporting multimodal inputs."
+  },
+  {
+    "name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "censorship_level": "Minimally Censored", 
+    "description": "Smaller vision-enabled Llama 3.2 model with 11B parameters for multimodal tasks."
+  },
+  {
+    "name": "meta-llama/llama-3.3-70b-instruct",
+    "censorship_level": "Minimally Censored",
+    "description": "Latest Llama 3.3 70B instruct variant with improved performance and capabilities."
+  },
+  {
+    "name": "nvidia/llama-3.1-nemotron-70b-instruct",
+    "censorship_level": "Minimally Censored",
+    "description": "NVIDIA's optimized Nemotron 70B instruct variant based on Llama 3.1 architecture."
   }
 ]
