@@ -8,3 +8,11 @@ Prefix Injection Jailbreak
 Как это работает
 
 Дальше будет больше. Есть идеи по улучшению - можно писать https://t.me/aleksanderbor
+
+## Images
+
+![Basic Example](images/basic.png)
+
+![Malicious Example](images/malitious.png)
+
+![Malicious Heatmap](images/malitious_heatmap.png)
